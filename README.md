@@ -28,8 +28,8 @@ This project provides a desktop GUI application to explore finite fields ùîΩ(p·
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone <your-repo-url>
-   cd <repo-directory>
+   git clone https://github.com/Codingis2much4me/Finite-Field-Calculator.git
+   cd Finite-Field-Calculator
    ```  
 
 ## Usage  
